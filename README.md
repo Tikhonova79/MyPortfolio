@@ -15,7 +15,7 @@
 <p> Проект 1: 
 Тестирование нового функционала "Личные события" в расписании занятий для учителей.  
 </p>
-<a href="[https://homework2-bag-report.atlassian.net/wiki/spaces/~63e79a18491b20ef64be220e/pages/786433/1-2.](https://www.notion.so/1-2-7a7899dc709440dca38ce3743b642cb8)">Ссылка на проект</a>
+<a href="(https://www.notion.so/1-2-7a7899dc709440dca38ce3743b642cb8)">Ссылка на проект</a>
 </p>
 <p>Что было сделано:<p>
 <ol>
