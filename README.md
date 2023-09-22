@@ -8,7 +8,7 @@
 
 ## Навыки и технологии
 ``Jira``,``Qase.io``,``Sitechco``,`` Postman``, ``Swagger``, ``Trello``, <br>
-``SoapUI``, ``pgAdmin``, ``Chrome DevTools``, ``Miro``, ``Confluence``.
+``SoapUI``, ``pgAdmin``, ``Chrome DevTools``, ``Miro``, ``Confluence``, ``GIT``, ``SQL``.
 
 ## Проекты
 
