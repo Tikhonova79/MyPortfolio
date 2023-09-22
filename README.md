@@ -19,7 +19,7 @@
 - ''Chrome DevTools'' <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399861.jpeg" height="16"/>
 - ''Miro'' <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399871.jpeg" height="16"/>
 - ''GIT'' <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399897.jpeg" height="16"/>
-- ''SQL'' <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399886.jpeg." height="16"/>
+- ''SQL'' <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399886.jpeg" height="16"/>
 
 ## Проекты
 
