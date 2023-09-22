@@ -9,6 +9,9 @@
 ## Навыки и технологии
 ``Jira``,``Qase.io``,``Sitechco``,`` Postman``, ``Swagger``, ``Trello``, <br>
 ``SoapUI``, ``pgAdmin``, ``Chrome DevTools``, ``Miro``, ``Confluence``, ``GIT``, ``SQL``.
+<img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695398592.jpeg" height="32"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jira/jira-original-wordmark.svg" height="32"/> 
 
 ## Проекты
 
