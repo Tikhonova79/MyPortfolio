@@ -7,13 +7,19 @@
 <br>
 
 ## Навыки и технологии
-- ''Jira'' <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jira/jira-original-wordmark.svg" height="32"/>
-- ''Confluense'' <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695398607.jpeg" height="32"/>
-- Qase.io``,``Sitechco``,`` Postman``, ``Swagger``, ``Trello``, <br>
-``SoapUI``, ``pgAdmin``, ``Chrome DevTools``, ``Miro``, ``Confluence``, ``GIT``, ``SQL``.
-<img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695398592.jpeg" height="32"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jira/jira-original-wordmark.svg" height="32"/> 
+- ''Jira'' <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jira/jira-original-wordmark.svg" height="16"/>
+- ''Confluense'' <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695398607.jpeg" height="16"/>
+- ''Qase.io'' <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399660.jpeg" height="16"/>
+- ''Sitechco'' <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399774.jpeg" height="16"/>
+- ''Postman'' <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399801.jpeg" height="16"/>
+- ''Swagger'' <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399815.jpeg" height="16"/>
+- ''Trello'' <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399826.jpeg" height="16"/>
+- ''SoapUI'' <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399838.jpeg" height="16"/>
+- ''pgAdmin'' <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399848.jpeg" height="16"/>
+- ''Chrome DevTools'' <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399861.jpeg" height="16"/>
+- ''Miro'' <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399871.jpeg" height="16"/>
+- ''GIT'' <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399897.jpeg" height="16"/>
+- ''SQL'' <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399886.jpeg." height="16"/>
 
 ## Проекты
 
