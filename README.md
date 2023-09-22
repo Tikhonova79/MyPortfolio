@@ -7,19 +7,19 @@
 <br>
 
 ## Навыки и технологии
-- ''Jira'' <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jira/jira-original-wordmark.svg" height="16"/>
-- ''Confluense'' <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695398607.jpeg" height="16"/>
-- ''Qase.io'' <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399660.jpeg" height="16"/>
-- ''Sitechco'' <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399774.jpeg" height="16"/>
-- ''Postman'' <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399801.jpeg" height="16"/>
-- ''Swagger'' <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399815.jpeg" height="16"/>
-- ''Trello'' <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399826.jpeg" height="16"/>
-- ''SoapUI'' <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399838.jpeg" height="16"/>
-- ''pgAdmin'' <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399848.jpeg" height="16"/>
-- ''Chrome DevTools'' <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399861.jpeg" height="16"/>
-- ''Miro'' <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399871.jpeg" height="16"/>
-- ''GIT'' <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399897.jpeg" height="16"/>
-- ''SQL'' <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399886.jpeg" height="16"/>
+- <a href="https://homework2-bag-report.atlassian.net/jira/your-work"> Jira <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jira/jira-original-wordmark.svg" width="16" height="16"></a>
+- <a href="https://homework2-bag-report.atlassian.net/wiki/home"> Confluense <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695398607.jpeg" width="16" height="16"></a>
+- <a href="https://app.qase.io/projects"> Qase.io <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399660.jpeg" width="16" height="16"></a>
+- <a href="https://chlist.sitechco.ru/project/39754/checklist"> Sitechco <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399774.jpeg" width="16" height="16"></a>
+- Postman <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399801.jpeg" height="16"/>
+- Swagger <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399815.jpeg" height="16"/>
+- <a href="https://trello.com/w/user78810001/home"> Trello <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399826.jpeg" width="16" height="16"></a>
+- SoapUI <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399838.jpeg" height="16"/>
+- pgAdmin <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399848.jpeg" height="16"/>
+- Chrome DevTools <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399861.jpeg" height="16"/>
+- <a href="https://miro.com/app/board/uXjVPj9UKmE=/?share_link_id=155222237708"> Miro <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399871.jpeg" width="16" height="16"></a>
+- <a href="https://github.com/Tikhonova79/MyPortfolio"> GIT <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399897.jpeg" width="16" height="16"></a>
+- SQL <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/photo1695399886.jpeg" height="16"/>
 
 ## Проекты
 
@@ -44,7 +44,7 @@
  </ol>
 
  <p>Выводы (итоги):<p>
-В результате проведенного функционального тестирования было выявлено 6 дефектов, один из которых со статусом серьезности S3. Направлены комментарии: как можно быстрее исправить данный дефект.
+В результате проведенного функционального тестирования было выявлено 6 дефектов, один из которых со статусом серьезности S3. По результату тестирования есть блокирующий дефект.
 <br> 
 
  
