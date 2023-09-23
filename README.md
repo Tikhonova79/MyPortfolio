@@ -80,4 +80,4 @@
  
 ## Контактная информация
 - Email: 9267822711@mail.ru
-- Telegram: t.me/tihonya79
+- Telegram: - <a href="https://t.me/tihonya79"> Telegram <img src="https://github.com/Tikhonova79/MyPortfolio/blob/main/telegram-2019-logo.svg" width="16" height="32"></a>
